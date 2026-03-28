@@ -1,8 +1,8 @@
 version: 0.1.5
 files:
-  - url: SX-Launcher-Setup-0.1.5.exe
-    sha512: +LnEfyRHCSmH08k9rJD4iIUAFND7JjwhALSASNtN4W6WDW5Z5Cpjxx/5W3qYBitesloBldW0xXSwu+SMpzGQuQ==
-    size: 102091651
-path: SX-Launcher-Setup-0.1.5.exe
-sha512: +LnEfyRHCSmH08k9rJD4iIUAFND7JjwhALSASNtN4W6WDW5Z5Cpjxx/5W3qYBitesloBldW0xXSwu+SMpzGQuQ==
-releaseDate: '2026-03-28T12:08:01.701Z'
+  - url: XS-Launcher-Setup-0.1.5.exe
+    sha512: pwMCCfVavilQh0/zIitvsCUeBmMAEDqk2c3kP3s8HUOz2mSZYPmTqOLq7OBrsNggaQhXhH0gdrtt7/PNeN0ilg==
+    size: 102105244
+path: XS-Launcher-Setup-0.1.5.exe
+sha512: pwMCCfVavilQh0/zIitvsCUeBmMAEDqk2c3kP3s8HUOz2mSZYPmTqOLq7OBrsNggaQhXhH0gdrtt7/PNeN0ilg==
+releaseDate: '2026-03-28T12:10:38.082Z'
