@@ -1,8 +1,8 @@
-version: 0.2.27
+version: 0.2.28
 files:
-  - url: XS-Launcher-Setup-0.2.27.exe
-    sha512: J0cX7jcBpMbTHwm14L9xkljag4AnUFdr0S0Ajw7yJtK6AO/27EIsZqHvUNITwrDZJosl8rkL8l8/Sao+h3kSIA==
-    size: 103611737
-path: XS-Launcher-Setup-0.2.27.exe
-sha512: J0cX7jcBpMbTHwm14L9xkljag4AnUFdr0S0Ajw7yJtK6AO/27EIsZqHvUNITwrDZJosl8rkL8l8/Sao+h3kSIA==
-releaseDate: '2026-03-31T16:44:25.649Z'
+  - url: XS-Launcher-Setup-0.2.28.exe
+    sha512: rLFQdQPv72tDmeOfmIuo+cwy5rNCWH07a4HjyA9wU0NcMpytRYlyYionHhSbhqAGZx1bLdiualFVAKfVsKif8A==
+    size: 103611495
+path: XS-Launcher-Setup-0.2.28.exe
+sha512: rLFQdQPv72tDmeOfmIuo+cwy5rNCWH07a4HjyA9wU0NcMpytRYlyYionHhSbhqAGZx1bLdiualFVAKfVsKif8A==
+releaseDate: '2026-03-31T17:05:11.981Z'
